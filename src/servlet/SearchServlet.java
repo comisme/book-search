@@ -85,7 +85,7 @@ public class SearchServlet extends HttpServlet {
 
 
 /*
-// To be removed
+// To be deleted
 response.setCharacterEncoding("UTF-8");
 PrintWriter pw = response.getWriter();
 pw.write(result);
